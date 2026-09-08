@@ -1,4 +1,4 @@
-# NEXUS-DATA-INTERNSHIP-PART1
+# NEXUS-DATA-INTERNSHIP-PART 1 & PART 2
 # 📊 Sales Performance Analysis (Excel)
 
 ## 📝 Project Overview
